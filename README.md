@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Augusto César</h1>
 <h3 align="center">A Data Scientist in Love with Python and Machine Learning</h3>
 
-- 🔭 I'm currently working on Data Science projects focused on Cybersecurity area **Arpia**
+- 🔭 I'm currently working on Data Science projects focused on Cybersecurity area **Harpia**
 
 - 🌱 I’m currently learning **Deep-Learning, Computing Vision, NLP**
 
